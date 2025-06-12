@@ -46,8 +46,8 @@ cd Timer-app
 npm install
 npm run dev
 
-
-🛠 Customization
+```
+### 🛠 Customization
 You can replace the default alarm.mp3 audio file by placing your preferred sound in the public/ folder and updating the reference inside Timer.jsx.
 
 To change the circle color or animation speed, update the stroke and transition values in the SVG inside Timer.jsx.
