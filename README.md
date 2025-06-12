@@ -1,6 +1,6 @@
 # ⏳ Timer & Stopwatch Web App
 
-A modern, responsive and animated Timer & Stopwatch application built with **React**, **Tailwind CSS**, and **Vite**. It supports:
+A modern, responsive  Timer & Stopwatch application built with **React**, **Tailwind CSS**, and **Vite**. It supports:
 - ⏱ Countdown Timer with animation and audio alert
 - 🛑 Millisecond-precision Stopwatch
 - 📜 Activity History saved to Local Storage
@@ -27,7 +27,7 @@ A modern, responsive and animated Timer & Stopwatch application built with **Rea
 ### ⏱ Stopwatch
 ![Stopwatch](public/stpw.png)
 
-### 📖 History Log
+### 📖 History 
 ![History](public/hstr.png)
 
 ---
@@ -41,7 +41,20 @@ A modern, responsive and animated Timer & Stopwatch application built with **Rea
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/timer-stopwatch-app.git
-cd timer-stopwatch-app
+git clone https://github.com/your-username/Timer-app.git
+cd Timer-app
 npm install
 npm run dev
+
+
+🛠 Customization
+You can replace the default alarm.mp3 audio file by placing your preferred sound in the public/ folder and updating the reference inside Timer.jsx.
+
+To change the circle color or animation speed, update the stroke and transition values in the SVG inside Timer.jsx.
+
+
+
+
+
+
+ 
