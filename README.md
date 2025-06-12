@@ -22,13 +22,13 @@ A modern, responsive and animated Timer & Stopwatch application built with **Rea
 ## 📸 Screenshots
 
 ### 🕒 Timer
-![Timer](./tmr.png)
+![Timer](public/tmr.png)
 
 ### ⏱ Stopwatch
-![Stopwatch](./stpw.png)
+![Stopwatch](public/stpw.png)
 
 ### 📖 History Log
-![History](./hstr.png)
+![History](public/hstr.png)
 
 ---
 
