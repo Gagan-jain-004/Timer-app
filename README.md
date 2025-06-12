@@ -41,7 +41,7 @@ A modern, responsive  Timer & Stopwatch application built with **React**, **Tail
 ### 🖥️ How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/Timer-app.git
+git clone https://github.com/Gagan-jain-004/Timer-app.git
 cd Timer-app
 npm install
 npm run dev
