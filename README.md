@@ -38,7 +38,7 @@ A modern, responsive  Timer & Stopwatch application built with **React**, **Tail
 - Node.js ≥ 14
 - npm / yarn / pnpm
 
-### Installation
+### 🖥️ How to Run Locally
 
 ```bash
 git clone https://github.com/your-username/Timer-app.git
@@ -47,6 +47,9 @@ npm install
 npm run dev
 
 ```
+### 📢 Permissions
+If you want notifications to work, be sure to allow notification permission in your browser.
+
 ### 🛠 Customization
 You can replace the default alarm.mp3 audio file by placing your preferred sound in the public/ folder and updating the reference inside Timer.jsx.
 
